@@ -11,4 +11,4 @@ Este é um simples aplicativo de lista de tarefas (to-do list) desenvolvido em P
 
 1. Clone o repositório para sua máquina local.
    ```bash
-   git clone https://github.com/seu-usuario/seu-aplicativo-tarefas.git
+   git clone https://github.com/seu-usuario/aplicativo-tarefas.git
