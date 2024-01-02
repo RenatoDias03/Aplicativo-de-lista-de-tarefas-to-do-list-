@@ -9,6 +9,8 @@ Este é um simples aplicativo de lista de tarefas (to-do list) desenvolvido em P
 - **Marcar Tarefas como Concluídas:** Indique que uma tarefa foi concluída.
 
 
+## Configuração do Ambiente de Desenvolvimento
+
 1. Clone o repositório para sua máquina local.
    ```bash
    git clone https://github.com/seu-usuario/aplicativo-tarefas.git
