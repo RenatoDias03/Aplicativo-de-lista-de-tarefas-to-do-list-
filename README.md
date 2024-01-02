@@ -1,4 +1,4 @@
-# Aplicativo de Lista de Tarefas em Python
+# Aplicativo simples de Lista de Tarefas em Python
 
 Este é um simples aplicativo de lista de tarefas (to-do list) desenvolvido em Python, utilizando a linha de comando para adicionar, excluir e marcar tarefas como concluídas.
 
